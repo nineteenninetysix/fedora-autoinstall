@@ -1,3 +1,5 @@
+> NOTE: This is now outdated - plaese use a more recent Fedora version
+
 Kickstart file for Fedora 42 (Dec 2025).
 
 You will need to replace the USERNAME, ENCRYPTED_PASSWORD and the sda values below to comply with your actual setup. To generate a secure hashed password: `mkpasswd -m sha-512`.
